@@ -19,3 +19,6 @@ To run this project locally, follow these steps:
    npm run dev
    ```
  3.  The project will now be running locally. Open http://localhost:3000 in your browser to view it.
+
+
+> **Note:** This project is still in progress, with much more to come!
